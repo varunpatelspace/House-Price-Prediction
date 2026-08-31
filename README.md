@@ -1,10 +1,10 @@
-# 🏠 House Price Prediction — Linear Regression
+#  House Price Prediction — Linear Regression
 
 A machine learning project that predicts house prices using the **King County, USA** housing dataset. Built with Python and Scikit-learn.
 
 ---
 
-## 📌 What This Project Does
+##  What This Project Does
 
 - Loads and cleans real housing data
 - Removes outliers (top 1% expensive houses)
@@ -15,7 +15,7 @@ A machine learning project that predicts house prices using the **King County, U
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 house-price-prediction/
@@ -29,7 +29,7 @@ house-price-prediction/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** King County, USA House Sales dataset
 - **Rows:** ~21,000+ records (after cleaning)
@@ -49,7 +49,7 @@ house-price-prediction/
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 ### 1. Clone the repo
 
@@ -74,7 +74,7 @@ You will be prompted to enter house details for a live price prediction.
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 | Metric | Value |
 |---|---|
@@ -86,7 +86,7 @@ You will be prompted to enter house details for a live price prediction.
 
 ---
 
-## 🖼️ Visualizations
+##  Visualizations
 
 The script generates two plots:
 
@@ -95,7 +95,7 @@ The script generates two plots:
 
 ---
 
-## 💡 Sample User Input
+## Sample User Input
 
 ```
 Bedrooms (>1): 3
@@ -106,12 +106,12 @@ Sqft Lot (>0): 5000
 Grade (1-13): 7
 Condition (1-5): 3
 
-🏠 Predicted Price: ₹285,432.00
+Predicted Price: ₹285,432.00
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.x
 - Pandas, NumPy
@@ -121,7 +121,7 @@ Condition (1-5): 3
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - [ ] Try Ridge / Lasso / XGBoost for better accuracy
 - [ ] Add more features like `waterfront`, `view`, `yr_built`
@@ -130,7 +130,7 @@ Condition (1-5): 3
 
 ---
 
-## 👤 Author
+## Author
 
 **Varun** — B.Tech Student, IIIT Bhagalpur  
 Building AI/ML projects | [GitHub](https://github.com/your-username)
